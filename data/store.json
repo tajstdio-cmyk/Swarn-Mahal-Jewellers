@@ -1,0 +1,535 @@
+{
+  "storeInfo": {
+    "brandName": "Swarn Mahal Jewellers",
+    "tagline": "Royal Heritage & Fine Craftsmanship • Ambikapur",
+    "announcement": "BIS 916 HUID Hallmarked Gold • Visit our Flagship Showroom near Joda Pipal, Ambikapur • 100% Exchange Value Guarantee",
+    "announcementIntervalSeconds": 4,
+    "topBarSpeedSeconds": 64,
+    "topBarShowLocation": true,
+    "topBarLocationText": "Visit Our Flagship Showroom: Near Joda Pipal, Ambikapur, Chhattisgarh • +91 98261 47900",
+    "topBarShowRates": true,
+    "topBarRatesLabel": "Today's Live Rate (10g):",
+    "announcements": [
+      {
+        "id": "ann-1",
+        "badge": "BIS 916 HUID",
+        "text": "100% Government Hallmarked 22K & 18K Gold — Live Karatmeter Purity Testing near Joda Pipal, Ambikapur",
+        "link": "/contact",
+        "linkText": "Visit Showroom",
+        "active": true
+      },
+      {
+        "id": "ann-2",
+        "badge": "BRIDAL SPECIAL",
+        "text": "Special Making Charge Privileges on 2026 Bridal Trousseau Pre-Bookings — Private Family Lounge Available",
+        "link": "/jewellery?collection=royal-bridal",
+        "linkText": "Explore Bridal",
+        "active": true
+      },
+      {
+        "id": "ann-3",
+        "badge": "MEN'S ROYAL EDIT",
+        "text": "Discover Solid 22K Gold Kadas, Italian Franco Chains & Solitaire Signet Rings in our Samrat Studio",
+        "link": "/jewellery?gender=Men",
+        "linkText": "Shop Men's",
+        "active": true
+      },
+      {
+        "id": "ann-4",
+        "badge": "LIFETIME PROMISE",
+        "text": "100% Prevailing Gold Rate Exchange Guarantee — Trusted by 18,000+ Families Across Ambikapur & Surguja",
+        "link": "/collections",
+        "linkText": "Explore Heritage",
+        "active": true
+      }
+    ],
+    "address": "Near Joda Pipal, Main Road, Ambikapur, Surguja, Chhattisgarh 497001",
+    "landmark": "Near Joda Pipal",
+    "city": "Ambikapur, Chhattisgarh",
+    "phone": "+91 98261 47900",
+    "whatsapp": "919826147900",
+    "email": "concierge@swarnmahalambikapur.com",
+    "timings": "10:30 AM – 8:30 PM (Monday to Sunday)",
+    "mapEmbedQuery": "Joda Pipal, Ambikapur, Chhattisgarh",
+    "heritageYears": "25+",
+    "happyFamilies": "18,000+",
+    "adminPin": "1234"
+  },
+  "goldRates": {
+    "gold24k": 79450,
+    "gold22k": 72830,
+    "gold18k": 59590,
+    "silver": 965,
+    "updatedAt": "2026-11-27T08:26:43.600Z"
+  },
+  "banners": [
+    {
+      "id": "banner-1",
+      "badge": "RIVAAN BRIDAL 2026",
+      "title": "Heirlooms Woven in Pure 22K Gold",
+      "subtitle": "Discover hand-crafted bridal Polki, Kundan, and antique temple necklaces designed for the royal brides of Surguja & Chhattisgarh.",
+      "ctaText": "Explore Bridal Collection",
+      "ctaLink": "/jewellery?collection=royal-bridal",
+      "secondaryCtaText": "Book Showroom Visit",
+      "secondaryCtaLink": "/contact",
+      "image": "/images/banner-bridal.jpg",
+      "theme": "maroon",
+      "active": true,
+      "order": 1
+    },
+    {
+      "id": "banner-2",
+      "badge": "SOLITAIRE & DIAMOND EDIT",
+      "title": "Brilliance That Captures Every Light",
+      "subtitle": "IGI-certified natural diamond rings, delicate bracelets, and contemporary rose-gold silhouettes tailored for modern elegance.",
+      "ctaText": "Shop Diamonds",
+      "ctaLink": "/jewellery?metal=Diamond",
+      "secondaryCtaText": "View Women's Edit",
+      "secondaryCtaLink": "/jewellery?gender=Women",
+      "image": "/images/banner-diamond.jpg",
+      "theme": "champagne",
+      "active": true,
+      "order": 2
+    },
+    {
+      "id": "banner-3",
+      "badge": "SAMRAT MEN'S STUDIO",
+      "title": "Bold Craftsmanship for the Modern Man",
+      "subtitle": "Solid 22K gold kadas, precision-forged chains, and solitaire signet rings engineered with timeless weight and royal presence.",
+      "ctaText": "Explore Men's Jewellery",
+      "ctaLink": "/jewellery?gender=Men",
+      "secondaryCtaText": "Custom Order",
+      "secondaryCtaLink": "/contact",
+      "image": "/images/banner-mens.jpg",
+      "theme": "obsidian",
+      "active": true,
+      "order": 3
+    }
+  ],
+  "collections": [
+    {
+      "id": "col-1",
+      "slug": "royal-bridal",
+      "name": "Rajwada Bridal",
+      "tagline": "Opulent Wedding Trousseau",
+      "description": "Signature 22K antique temple haars, Kundan chokers, and heirloom bridal sets crafted by master karigars.",
+      "image": "/images/prod-necklace.jpg",
+      "badge": "Signature",
+      "featured": true
+    },
+    {
+      "id": "col-2",
+      "slug": "celeste-diamonds",
+      "name": "Celeste Solitaires",
+      "tagline": "Certified Everyday Brilliance",
+      "description": "VVS-EF natural diamonds set in 18K rose and yellow gold for engagements, anniversaries, and effortless daily luxury.",
+      "image": "/images/prod-ring-women.jpg",
+      "badge": "IGI Certified",
+      "featured": true
+    },
+    {
+      "id": "col-3",
+      "slug": "samrat-mens",
+      "name": "Samrat Men's Edit",
+      "tagline": "Statement Gold for Him",
+      "description": "Heavy royal kadas, Italian-finish Franco chains, and bold diamond signet rings designed exclusively for men.",
+      "image": "/images/prod-bracelet-men.jpg",
+      "badge": "Men's Exclusive",
+      "featured": true
+    },
+    {
+      "id": "col-4",
+      "slug": "nitya-mangalsutra",
+      "name": "Nitya Heritage",
+      "tagline": "Modern Sacred Elegance",
+      "description": "Contemporary diamond mangalsutras, dainty filigree bracelets, and featherlight jhumkas crafted for everyday grace.",
+      "image": "/images/prod-mangalsutra.jpg",
+      "badge": "New Arrivals",
+      "featured": true
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-1",
+      "slug": "maharani-temple-bridal-haar",
+      "sku": "SMJ-NK-2201",
+      "name": "Maharani Antique Temple Bridal Haar",
+      "category": "Necklaces",
+      "gender": "Women",
+      "metal": "22K Gold",
+      "purity": "22K (916 BIS Hallmarked)",
+      "weightGrams": 54.6,
+      "makingChargePercent": 12,
+      "gstPercent": 3,
+      "stonePrice": 14500,
+      "price": 472850,
+      "originalPrice": 498000,
+      "collectionSlug": "royal-bridal",
+      "image": "/images/prod-necklace.jpg",
+      "gallery": [
+        "/images/prod-necklace.jpg",
+        "/images/banner-bridal.jpg"
+      ],
+      "description": "An extraordinary 22K gold antique temple necklace hand-carved with intricate floral filigree and Burmese-hue ruby accents. Crafted over 120 hours for wedding ceremonies and generational treasuring.",
+      "highlights": [
+        "BIS 916 HUID Hallmarked Pure 22K Gold",
+        "Hand-engraved Nakshi antique matte finish",
+        "Adjustable handcrafted silk-gold dori",
+        "Includes Swarn Mahal Lifetime Buyback Certificate"
+      ],
+      "badge": "Bridal Bestseller",
+      "inStock": true,
+      "featured": true,
+      "bestseller": true,
+      "isNew": false
+    },
+    {
+      "id": "prod-2",
+      "slug": "aurora-solitaire-halo-ring",
+      "sku": "SMJ-RG-1804",
+      "name": "Aurora Halo Solitaire Diamond Ring",
+      "category": "Rings",
+      "gender": "Women",
+      "metal": "Diamond",
+      "purity": "18K Rose Gold • VVS-EF Diamonds",
+      "weightGrams": 4.85,
+      "makingChargePercent": 14,
+      "gstPercent": 3,
+      "stonePrice": 68500,
+      "price": 104490,
+      "originalPrice": 112000,
+      "collectionSlug": "celeste-diamonds",
+      "image": "/images/prod-ring-women.jpg",
+      "gallery": [
+        "/images/prod-ring-women.jpg",
+        "/images/banner-diamond.jpg"
+      ],
+      "description": "A luminous center solitaire embraced by a sparkling pave diamond halo in warm 18K rose gold. Engineered for maximum fire and everyday comfort.",
+      "highlights": [
+        "IGI Certified Natural Diamonds (0.65 ct total)",
+        "18K BIS Hallmarked Rose Gold Band",
+        "Comfort-fit inner band contour",
+        "Complimentary ring resizing at our Ambikapur showroom"
+      ],
+      "badge": "Engagement Pick",
+      "inStock": true,
+      "featured": true,
+      "bestseller": true,
+      "isNew": true
+    },
+    {
+      "id": "prod-3",
+      "slug": "zoya-filigree-diamond-bracelet",
+      "sku": "SMJ-BR-2209",
+      "name": "Zoya Filigree Gold & Diamond Bracelet",
+      "category": "Bracelets",
+      "gender": "Women",
+      "metal": "22K Gold",
+      "purity": "22K Gold • Accent Diamonds",
+      "weightGrams": 16.4,
+      "makingChargePercent": 11,
+      "gstPercent": 3,
+      "stonePrice": 22000,
+      "price": 159200,
+      "originalPrice": 168500,
+      "collectionSlug": "celeste-diamonds",
+      "image": "/images/prod-bracelet-women.jpg",
+      "gallery": [
+        "/images/prod-bracelet-women.jpg",
+        "/images/banner-diamond.jpg"
+      ],
+      "description": "Graceful flexible-link 22K gold bracelet inlaid with dainty shimmering diamonds. Transitions effortlessly from festive silk sarees to evening couture.",
+      "highlights": [
+        "Secure double-lock box clasp with safety latch",
+        "22K Hallmarked Yellow Gold",
+        "High-polish mirror interior for skin comfort",
+        "Free annual ultrasonic cleaning at Joda Pipal store"
+      ],
+      "badge": "Trending",
+      "inStock": true,
+      "featured": true,
+      "bestseller": false,
+      "isNew": true
+    },
+    {
+      "id": "prod-4",
+      "slug": "surguja-royal-jhumka-earrings",
+      "sku": "SMJ-ER-2212",
+      "name": "Surguja Royal Pearl-Drop Jhumkas",
+      "category": "Earrings",
+      "gender": "Women",
+      "metal": "22K Gold",
+      "purity": "22K (916 BIS Hallmarked)",
+      "weightGrams": 18.2,
+      "makingChargePercent": 11,
+      "gstPercent": 3,
+      "stonePrice": 4800,
+      "price": 156450,
+      "collectionSlug": "royal-bridal",
+      "image": "/images/prod-earrings.jpg",
+      "gallery": [
+        "/images/prod-earrings.jpg",
+        "/images/banner-bridal.jpg"
+      ],
+      "description": "Iconic bell-shaped 22K gold jhumkas crowned with Kundan petals and delicate freshwater pearl ghungroos that sway with timeless grace.",
+      "highlights": [
+        "Feather-balanced weight distribution for long wear",
+        "South-sea inspired natural pearl drops",
+        "Secure screw-back Bombay lock",
+        "BIS 916 HUID Certified"
+      ],
+      "badge": "Festive Classic",
+      "inStock": true,
+      "featured": true,
+      "bestseller": true,
+      "isNew": false
+    },
+    {
+      "id": "prod-5",
+      "slug": "samrat-solitaire-signet-ring",
+      "sku": "SMJ-MR-2203",
+      "name": "Samrat Brushed Gold & Solitaire Ring",
+      "category": "Rings",
+      "gender": "Men",
+      "metal": "22K Gold",
+      "purity": "22K Gold • 0.35 ct Diamond",
+      "weightGrams": 11.4,
+      "makingChargePercent": 10,
+      "gstPercent": 3,
+      "stonePrice": 36000,
+      "price": 131150,
+      "originalPrice": 139000,
+      "collectionSlug": "samrat-mens",
+      "image": "/images/prod-ring-men.jpg",
+      "gallery": [
+        "/images/prod-ring-men.jpg",
+        "/images/banner-mens.jpg"
+      ],
+      "description": "A commanding architectural men's signet ring crafted in solid 22K yellow gold with satin-brushed shoulders and a flush-set solitaire diamond.",
+      "highlights": [
+        "Solid forged 22K gold shank (11.4g)",
+        "Flush-set IGI certified solitaire diamond",
+        "Scratch-resistant satin & mirror dual finish",
+        "Custom size tailoring within 24 hours"
+      ],
+      "badge": "Men's Bestseller",
+      "inStock": true,
+      "featured": true,
+      "bestseller": true,
+      "isNew": false
+    },
+    {
+      "id": "prod-6",
+      "slug": "rajputana-royal-mens-kada",
+      "sku": "SMJ-MB-2207",
+      "name": "Rajputana Engraved 22K Gold Kada",
+      "category": "Bracelets",
+      "gender": "Men",
+      "metal": "22K Gold",
+      "purity": "22K (916 BIS Hallmarked)",
+      "weightGrams": 34.8,
+      "makingChargePercent": 9,
+      "gstPercent": 3,
+      "stonePrice": 0,
+      "price": 284590,
+      "collectionSlug": "samrat-mens",
+      "image": "/images/prod-bracelet-men.jpg",
+      "gallery": [
+        "/images/prod-bracelet-men.jpg",
+        "/images/banner-mens.jpg"
+      ],
+      "description": "Precision-crafted solid 22K gold men's royal kada featuring subtle geometric laser-carved borders and a seamless concealed hinge.",
+      "highlights": [
+        "Heavy 34.8g solid 22K gold construction",
+        "Hidden precision hinge with safety clasp",
+        "Smooth rounded edges for daily wear",
+        "100% Gold Exchange Value Guarantee"
+      ],
+      "badge": "Royal Edition",
+      "inStock": true,
+      "featured": true,
+      "bestseller": true,
+      "isNew": true
+    },
+    {
+      "id": "prod-7",
+      "slug": "imperia-franco-gold-chain",
+      "sku": "SMJ-MC-2211",
+      "name": "Imperia Solid Franco 22K Gold Chain",
+      "category": "Chains",
+      "gender": "Men",
+      "metal": "22K Gold",
+      "purity": "22K (916 BIS Hallmarked)",
+      "weightGrams": 28.5,
+      "makingChargePercent": 8.5,
+      "gstPercent": 3,
+      "stonePrice": 0,
+      "price": 231990,
+      "collectionSlug": "samrat-mens",
+      "image": "/images/prod-chain-men.jpg",
+      "gallery": [
+        "/images/prod-chain-men.jpg",
+        "/images/banner-mens.jpg"
+      ],
+      "description": "Bold Italian-inspired diamond-cut Franco curb chain crafted in radiant 22K gold. Engineered for high tensile strength and an unmistakable gleam.",
+      "highlights": [
+        "22-inch classic drape length",
+        "Reinforced heavy lobster clasp",
+        "Diamond-cut facets for extra brilliance",
+        "BIS 916 HUID stamped on clasp"
+      ],
+      "badge": "Men's Favorite",
+      "inStock": true,
+      "featured": true,
+      "bestseller": false,
+      "isNew": false
+    },
+    {
+      "id": "prod-8",
+      "slug": "nitya-diamond-mangalsutra",
+      "sku": "SMJ-MS-1815",
+      "name": "Nitya Geometric Diamond Mangalsutra",
+      "category": "Mangalsutra",
+      "gender": "Women",
+      "metal": "18K Gold",
+      "purity": "18K Gold • VVS-EF Diamonds",
+      "weightGrams": 9.2,
+      "makingChargePercent": 12,
+      "gstPercent": 3,
+      "stonePrice": 38500,
+      "price": 102900,
+      "originalPrice": 109500,
+      "collectionSlug": "nitya-mangalsutra",
+      "image": "/images/prod-mangalsutra.jpg",
+      "gallery": [
+        "/images/prod-mangalsutra.jpg",
+        "/images/banner-diamond.jpg"
+      ],
+      "description": "A sleek, contemporary mangalsutra pairing hand-strung black onyx beads with a sculptural 18K gold and diamond centerpiece designed for modern daily wear.",
+      "highlights": [
+        "18-inch delicate gold & black-bead chain",
+        "IGI Certified 0.42 ct natural diamonds",
+        "Lightweight everyday ergonomic design",
+        "Includes luxury velvet keepsake box"
+      ],
+      "badge": "New Launch",
+      "inStock": true,
+      "featured": true,
+      "bestseller": true,
+      "isNew": true
+    },
+    {
+      "id": "prod-9",
+      "slug": "kashi-heritage-gold-bangles",
+      "sku": "SMJ-BG-2218",
+      "name": "Kashi Heritage Nakshi Bangles (Pair)",
+      "category": "Bangles",
+      "gender": "Women",
+      "metal": "22K Gold",
+      "purity": "22K (916 BIS Hallmarked)",
+      "weightGrams": 32,
+      "makingChargePercent": 10,
+      "gstPercent": 3,
+      "stonePrice": 0,
+      "price": 264050,
+      "collectionSlug": "royal-bridal",
+      "image": "/images/prod-bracelet-women.jpg",
+      "gallery": [
+        "/images/prod-bracelet-women.jpg",
+        "/images/banner-bridal.jpg"
+      ],
+      "description": "A regal pair of 22K gold bangles sculpted with classic temple motifs and gleaming beaded borders, perfect for wedding rituals and festive celebrations.",
+      "highlights": [
+        "Set of 2 solid 22K gold bangles",
+        "Available in sizes 2-2 to 2-8",
+        "Master hand-finished detailing",
+        "BIS 916 HUID Hallmarked"
+      ],
+      "inStock": true,
+      "featured": false,
+      "bestseller": false,
+      "isNew": false
+    },
+    {
+      "id": "prod-10",
+      "slug": "celeste-eternity-unisex-band",
+      "sku": "SMJ-RG-1822",
+      "name": "Celeste Platinum & Gold Couple Band",
+      "category": "Rings",
+      "gender": "Unisex",
+      "metal": "Rose Gold",
+      "purity": "18K Rose Gold • Accent Diamond",
+      "weightGrams": 5.6,
+      "makingChargePercent": 12,
+      "gstPercent": 3,
+      "stonePrice": 14500,
+      "price": 53400,
+      "collectionSlug": "celeste-diamonds",
+      "image": "/images/prod-ring-women.jpg",
+      "gallery": [
+        "/images/prod-ring-women.jpg"
+      ],
+      "description": "Minimalist contemporary eternity band in warm 18K rose gold with a single flush-set diamond — ideal as a couple's promise ring or everyday signature.",
+      "highlights": [
+        "Unisex ergonomic comfort-fit profile",
+        "Free custom inside engraving",
+        "18K Hallmarked Rose Gold"
+      ],
+      "badge": "Couple Pick",
+      "inStock": true,
+      "featured": false,
+      "bestseller": false,
+      "isNew": true
+    }
+  ],
+  "inquiries": [
+    {
+      "id": "inq-1",
+      "type": "appointment",
+      "name": "Ananya Agrawal",
+      "phone": "+91 94252 11840",
+      "email": "ananya.agrawal@example.com",
+      "preferredDate": "2026-11-30",
+      "productName": "Maharani Antique Temple Bridal Haar",
+      "message": "Looking for a complete bridal gold set for a December wedding in Ambikapur. Would love a private viewing session near Joda Pipal showroom.",
+      "status": "new",
+      "createdAt": "2026-11-27T08:15:00.000Z"
+    },
+    {
+      "id": "inq-2",
+      "type": "product_inquiry",
+      "name": "Vikramaditya Singh",
+      "phone": "+91 98265 44910",
+      "productName": "Rajputana Engraved 22K Gold Kada",
+      "message": "Is the 35g Rajputana Kada available in wrist size 2.8? Please share current making charges.",
+      "status": "contacted",
+      "createdAt": "2026-11-26T14:40:00.000Z"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "test-1",
+      "name": "Priya & Rohit Mittal",
+      "location": "Ambikapur",
+      "rating": 5,
+      "occasion": "Bridal Trousseau",
+      "quote": "We shopped my entire wedding jewellery from Swarn Mahal near Joda Pipal. Their 22K temple collection rivals big metro showrooms, and the transparent billing won our whole family's trust."
+    },
+    {
+      "id": "test-2",
+      "name": "Dr. Saurabh Pandey",
+      "location": "Surguja, CG",
+      "rating": 5,
+      "occasion": "Men's Gold Kada & Ring",
+      "quote": "Finally a showroom in Ambikapur with a refined Men's jewellery collection. The finish on my engraved kada and diamond signet ring is unmatched."
+    },
+    {
+      "id": "test-3",
+      "name": "Meenakshi Jaiswal",
+      "location": "Vishrampur",
+      "rating": 5,
+      "occasion": "Anniversary Solitaire",
+      "quote": "Every diamond comes with proper certification and the staff patiently explained purity and HUID hallmarks. Truly feels like a royal experience."
+    }
+  ]
+}
